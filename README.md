@@ -2,7 +2,7 @@
 
 TOPSIS (Technique for Order Preference by Similarity to Ideal Solution) is a multi-criteria decision-making method used to determine the best alternative among a set of options based on their proximity to the ideal solution. It involves comparing alternatives against both positive (ideal) and negative (anti-ideal) reference points. The ideal solution represents the highest benefit, while the anti-ideal solution represents the lowest benefit or highest cost. By calculating the distance between each alternative and these reference points, TOPSIS ranks the alternatives by their relative closeness to the ideal solution, aiding decision-makers in selecting the most desirable option.
 
-#Steps 
+# Steps 
 1. Define Criteria: Identify the criteria or attributes relevant to the decision-making problem. These criteria should be measurable and directly related to the alternatives being evaluated.
 
 2. Normalize the Decision Matrix: Create a decision matrix where rows represent alternatives and columns represent criteria. Normalize the matrix to ensure that all criteria are on the same scale, typically between 0 and 1, to remove any bias caused by different units or scales.
